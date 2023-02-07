@@ -1,0 +1,5 @@
+IO expander
+slave address 0x20
+slave address + read 0x40
+slave address + write 0x41
+chip id 0x2e

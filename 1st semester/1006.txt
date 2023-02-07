@@ -1,0 +1,4 @@
+用flip flop 當作開關的暫態 去控制
+他們是pc->usb(uart)->arduino->matlab
+
+wifi->pc->esp32  esp32->去改shift register
